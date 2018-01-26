@@ -8,10 +8,10 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("CalculateAgeSemo")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("CalculateAgeSemo")>
+<Assembly: AssemblyTitle("Calculate Age Demo")>
+<Assembly: AssemblyDescription("Calculate a person's age by receiving their birthdate.")>
+<Assembly: AssemblyCompany("Bolen Computers")>
+<Assembly: AssemblyProduct("Calculate Age Demo")>
 <Assembly: AssemblyCopyright("Copyright ©  2018")>
 <Assembly: AssemblyTrademark("")>
 
